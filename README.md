@@ -2,7 +2,6 @@
 Visualization assignment using ggplot2 in R — includes bar chart of gear types (with carburetor ≥ 3) and stacked bar chart of gear types by cylinder count from the mtcars dataset.
 
 
-# ggplot2-mtcars-bar-charts
 
 This repository contains an in-class R assignment using the `mtcars` dataset and `ggplot2` for data visualization. It includes:
 
